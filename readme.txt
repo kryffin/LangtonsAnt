@@ -1,3 +1,3 @@
-Back : 125, 125, 125 (gray)
-2 ants
-normal setup 10 colors
+# Langton's Ant
+
+A simple SDL project implementing the Langton's Ant : https://en.wikipedia.org/wiki/Langton%27s_ant
